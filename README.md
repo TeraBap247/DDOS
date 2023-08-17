@@ -86,7 +86,7 @@ sudo apt-get install npm -y
 - Using vps with high speed will be stronger
 
 ```
-git https://github.com/TeraBap247/DDOS
+git clone https://github.com/TeraBap247/DDOS
 cd DDOS
 npm i requests
 npm i https-proxy-agent
