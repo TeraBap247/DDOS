@@ -86,8 +86,8 @@ sudo apt-get install npm -y
 - Using vps with high speed will be stronger
 
 ```
-git clone https://github.com/BINOD-XD/RXS-DDoS/
-cd RXS-DDoS
+git https://github.com/TeraBap247/DDOS
+cd DDOS
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
